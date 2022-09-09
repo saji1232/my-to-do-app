@@ -35,7 +35,7 @@ const App: FC = () => {
     <div className="App">
       <div>
         <h1>To-Do App</h1>
-        <h3>Let's plan our task</h3>
+        <h3>Let's plan our task!</h3>
       </div>
 
       <div className="header">
